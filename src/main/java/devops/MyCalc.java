@@ -24,6 +24,10 @@ public class MyCalc {
 	public void display2() {
 
 	}
+	
+	public void display3() {
+
+	}
 	public static void main(String[] args) {
 
 		MyCalc ob = new MyCalc();
@@ -33,6 +37,6 @@ public class MyCalc {
 		System.out.println("Div is "+ob.div(20, 10));
 		System.out.println("Welcome to Jenkins");
 		System.out.println("Welcome to Jenkins2");
-	}
+		System.out.println("Welcome to Jenkins3");
 
 }
