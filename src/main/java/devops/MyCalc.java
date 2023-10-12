@@ -32,7 +32,7 @@ public class MyCalc {
 		System.out.println("Mul is "+ob.mul(20, 10));		
 		System.out.println("Div is "+ob.div(20, 10));
 		System.out.println("Welcome to Jenkins");
-		System.out.println("Welcome to Jenkins2")
+		System.out.println("Welcome to Jenkins2");
 	}
 
 }
