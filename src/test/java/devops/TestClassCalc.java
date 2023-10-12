@@ -31,7 +31,7 @@ public class TestClassCalc {
 	@Test
 	public void test_div() {
 	
-		assertEquals(30, ob.div(15, 5));
+		assertEquals(3, ob.div(15, 5));
 	}
 
 }
