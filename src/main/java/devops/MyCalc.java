@@ -20,6 +20,8 @@ public class MyCalc {
 
 	public void display() {
 		
+	}
+	public void display2() {
 
 	}
 	public static void main(String[] args) {
@@ -30,6 +32,7 @@ public class MyCalc {
 		System.out.println("Mul is "+ob.mul(20, 10));		
 		System.out.println("Div is "+ob.div(20, 10));
 		System.out.println("Welcome to Jenkins");
+		System.out.println("Welcome to Jenkins2")
 	}
 
 }
